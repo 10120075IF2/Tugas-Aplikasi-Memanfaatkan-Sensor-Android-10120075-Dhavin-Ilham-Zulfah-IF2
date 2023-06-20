@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyResto</string>
+    <string name="a_desc">Aplikasi ini ditujukan untuk tugas AKB</string>
+    <string name="b_desc">Aplikasi ini menggunakan sensor gps di perangkat android untuk mendapatkan 5 Restoran terdekat..</string>
+    <string name="c_desc">Apklikasi ini manfaatkan layanan lokasi Android untuk mendapatkan lokasi pengguna saat ini.</string>
+    <string name="map_content_description">Peta MyResto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>

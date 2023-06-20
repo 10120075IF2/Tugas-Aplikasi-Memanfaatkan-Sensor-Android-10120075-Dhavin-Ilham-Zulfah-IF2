@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_i1.jpeg.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/i1.jpeg"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_baseline_map_24.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/baseline_map_24.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_baseline_info_24.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_viewpager_item.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/viewpager_item.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_activity_view.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/activity_view.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_fragment_information.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/fragment_information.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_fragment_map.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_i2.jpeg.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/i2.jpeg"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_fragment_profile.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/raw_splash.json.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/raw/splash.json"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_i3.jpeg.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/i3.jpeg"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/drawable_dhavin.jpeg.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/drawable/dhavin.jpeg"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_activity_splash.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rekomendasirestoran.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.rekomendasirestoran.app-main-36:/layout/activity_main.xml"
+    }
+]
